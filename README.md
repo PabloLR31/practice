@@ -1,2 +1,1 @@
-# práctica
-# practice
+# Practice
